@@ -1,6 +1,6 @@
 # Angel David Carlos Silva
 
-Ingeniero de Software recién egresado (Universidad Autónoma de Zacatecas), con experiencia en en desarrollo backend, aplicaciones móviles e inteligencia artificial aplicada con modelos de lenguaje (SLMs).
+Ingeniero de Software recién egresado (Universidad Autónoma de Zacatecas), con experiencia en desarrollo backend, aplicaciones móviles e inteligencia artificial aplicada con modelos de lenguaje (SLMs).
 
 Actualmente abierto a oportunidades como desarrollador junior.
 
