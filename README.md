@@ -2,7 +2,7 @@
 
 Ingeniero de Software recién egresado (Universidad Autónoma de Zacatecas), con experiencia en en desarrollo backend, aplicaciones móviles e inteligencia artificial aplicada con modelos de lenguaje (SLMs).
 
-Actualmente abierto a oportunidades remotas como desarrollador junior.
+Actualmente abierto a oportunidades como desarrollador junior.
 
 ## Sobre mi trabajo
 
